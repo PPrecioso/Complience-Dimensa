@@ -1,0 +1,192 @@
+{
+  "image_name": "Construtiva Engenharia S.A. 2 .png",
+  "people_count": 8,
+  "rules_count": 5,
+  "regras_recuperadas": [
+    {
+      "text": "au de responsabilidade técnica, organizacional e humana. A empresa compreende que seus resultados estão diretamente relacionados à conduta ética, ao cumprimento de normas e à adoção de práticas seguras no cotidiano das operações. Este documento deve ser interpretado como um instrumento vivo, que orienta comportamentos, decisões e práticas diárias, servindo de referência permanente para todos os níveis hierárquicos. 2. Identidade Organizacional, Cultura e Valores A identidade organizacional da Construtiva Engenharia é fundamentada em valores sólidos que norteiam suas ações e decisões estratégicas. A missão da empresa consiste em executar projetos de engenharia com excelência técnica, segurança operacional e responsabilidade social, buscando sempre o equilíbrio entre produtividade e preservação da integridade física e moral das pessoas envolvidas. A visão corporativa está orientada para o",
+      "metadata": {
+        "source_file": "Construtiva_Engenharia_Manual_Completo_Texto_Rendido.pdf",
+        "page": 1,
+        "company": "Construtiva Engenharia",
+        "doc_type": "pdf"
+      },
+      "score": 0.40552549120493614
+    },
+    {
+      "text": "(SSMA) A gestão de Saúde, Segurança e Meio Ambiente é tratada como prioridade estratégica pela Construtiva Engenharia. A empresa mantém políticas, procedimentos e programas voltados à prevenção de acidentes, à proteção da saúde dos colaboradores e à mitigação de impactos ambientais. O cumprimento das normas de segurança é condição indispensável para a permanência e atuação em qualquer área operacional, sendo responsabilidade de todos identificar, comunicar e mitigar riscos. 6.1 Diretrizes de Segurança por Ambiente e Setor Nos setores administrativos, onde predominam atividades intelectuais e de gestão, não há exigência padrão de equipamentos de proteção individual, devendo-se observar normas de ergonomia, organização do posto de trabalho e conduta profissional adequada. Nos ambientes operacionais de obras e campo, caracterizados pela circulação de máquinas, materiais pesados, atividades",
+      "metadata": {
+        "source_file": "Construtiva_Engenharia_Manual_Completo_Texto_Rendido.pdf",
+        "page": 2,
+        "company": "Construtiva Engenharia",
+        "doc_type": "pdf"
+      },
+      "score": 0.4019592078129255
+    },
+    {
+      "text": "conflitos de interesse ou uso inadequado de informações confidenciais. Cada colaborador é responsável por zelar pela imagem da empresa, atuando de forma transparente, responsável e alinhada aos valores institucionais, tanto no ambiente interno quanto em interações com clientes, parceiros e comunidade. 4. Uso de Identificação, Acesso e Permanência nas Dependências O uso de crachá de identificação visível é obrigatório em todas as dependências da empresa, incluindo escritórios administrativos, canteiros de obras, áreas operacionais, logísticas, de manutenção e áreas comuns. O controle de acesso tem como objetivo garantir a segurança patrimonial e das pessoas, sendo dever do colaborador zelar pelo uso correto e intransferível de sua identificação. 5. Código de Vestimenta e Apresentação Pessoal",
+      "metadata": {
+        "source_file": "Construtiva_Engenharia_Manual_Completo_Texto_Rendido.pdf",
+        "page": 1,
+        "company": "Construtiva Engenharia",
+        "doc_type": "pdf"
+      },
+      "score": 0.18198013080533035
+    },
+    {
+      "text": "A Construtiva Engenharia adota padrões de vestimenta compatíveis com o ambiente profissional, levando em consideração aspectos de segurança, funcionalidade, imagem institucional e respeito ao contexto de atuação. Nos ambientes administrativos, aplica-se o padrão business casual, sendo permitidas camisas sociais ou polos, calças sociais ou jeans em bom estado, desde que não comprometam a imagem profissional. É vedado o uso de bermudas, regatas, chinelos, bonés ou roupas excessivamente informais. Nos ambientes operacionais, a vestimenta deve priorizar segurança e funcionalidade, sendo proibido o uso de roupas soltas, acessórios pendentes ou itens que possam enroscar em máquinas, equipamentos ou estruturas. 6. Saúde, Segurança e Meio Ambiente (SSMA) A gestão de Saúde, Segurança e Meio Ambiente é tratada como prioridade estratégica pela Construtiva Engenharia. A empresa mantém políticas, pro",
+      "metadata": {
+        "source_file": "Construtiva_Engenharia_Manual_Completo_Texto_Rendido.pdf",
+        "page": 2,
+        "company": "Construtiva Engenharia",
+        "doc_type": "pdf"
+      },
+      "score": 0.17947636404618067
+    },
+    {
+      "text": "conduta profissional adequada. Nos ambientes operacionais de obras e campo, caracterizados pela circulação de máquinas, materiais pesados, atividades em altura e exposição a riscos físicos, entende-se como prática indispensável o uso contínuo de capacete de segurança, colete refletivo de alta visibilidade e calçados de segurança apropriados durante toda a permanência no local. Em áreas de logística, pátio e movimentação de materiais, as exigências de equipamentos de proteção individual podem variar conforme avaliação de risco local, devendo o colaborador seguir rigorosamente as orientações específicas estabelecidas. Em atividades de manutenção, procedimentos adicionais de segurança podem ser definidos por meio de ordens de serviço, análises preliminares de risco e instruções técnicas específicas. 7. Disposições Gerais e Atualizações Este manual entra em vigor na data de sua publicação e",
+      "metadata": {
+        "source_file": "Construtiva_Engenharia_Manual_Completo_Texto_Rendido.pdf",
+        "page": 2,
+        "company": "Construtiva Engenharia",
+        "doc_type": "pdf"
+      },
+      "score": 0.15558841556269226
+    }
+  ],
+  "resultado": [
+    {
+      "pessoa_id": 1,
+      "bbox": {
+        "x1": 898,
+        "y1": 124,
+        "x2": 1322,
+        "y2": 945
+      },
+      "status": "Indeterminado",
+      "justificativa": "Regras relevantes recuperadas, mas a verificação visual detalhada de EPI ainda está em modo heurístico. Itens possivelmente exigidos: capacete, colete refletivo.",
+      "itens_requeridos": [
+        "capacete",
+        "colete refletivo"
+      ],
+      "crop_path": "C:\\Users\\cpmic\\OneDrive\\Documentos\\compliance_ai_dimensa_terminal\\outputs\\crops\\Construtiva Engenharia S.A. 2 _person_1.png"
+    },
+    {
+      "pessoa_id": 2,
+      "bbox": {
+        "x1": 35,
+        "y1": 128,
+        "x2": 342,
+        "y2": 988
+      },
+      "status": "Indeterminado",
+      "justificativa": "Regras relevantes recuperadas, mas a verificação visual detalhada de EPI ainda está em modo heurístico. Itens possivelmente exigidos: capacete, colete refletivo.",
+      "itens_requeridos": [
+        "capacete",
+        "colete refletivo"
+      ],
+      "crop_path": "C:\\Users\\cpmic\\OneDrive\\Documentos\\compliance_ai_dimensa_terminal\\outputs\\crops\\Construtiva Engenharia S.A. 2 _person_2.png"
+    },
+    {
+      "pessoa_id": 3,
+      "bbox": {
+        "x1": 789,
+        "y1": 143,
+        "x2": 1017,
+        "y2": 794
+      },
+      "status": "Indeterminado",
+      "justificativa": "Regras relevantes recuperadas, mas a verificação visual detalhada de EPI ainda está em modo heurístico. Itens possivelmente exigidos: capacete, colete refletivo.",
+      "itens_requeridos": [
+        "capacete",
+        "colete refletivo"
+      ],
+      "crop_path": "C:\\Users\\cpmic\\OneDrive\\Documentos\\compliance_ai_dimensa_terminal\\outputs\\crops\\Construtiva Engenharia S.A. 2 _person_3.png"
+    },
+    {
+      "pessoa_id": 4,
+      "bbox": {
+        "x1": 491,
+        "y1": 168,
+        "x2": 690,
+        "y2": 867
+      },
+      "status": "Indeterminado",
+      "justificativa": "Regras relevantes recuperadas, mas a verificação visual detalhada de EPI ainda está em modo heurístico. Itens possivelmente exigidos: capacete, colete refletivo.",
+      "itens_requeridos": [
+        "capacete",
+        "colete refletivo"
+      ],
+      "crop_path": "C:\\Users\\cpmic\\OneDrive\\Documentos\\compliance_ai_dimensa_terminal\\outputs\\crops\\Construtiva Engenharia S.A. 2 _person_4.png"
+    },
+    {
+      "pessoa_id": 5,
+      "bbox": {
+        "x1": 232,
+        "y1": 239,
+        "x2": 444,
+        "y2": 980
+      },
+      "status": "Indeterminado",
+      "justificativa": "Regras relevantes recuperadas, mas a verificação visual detalhada de EPI ainda está em modo heurístico. Itens possivelmente exigidos: capacete, colete refletivo.",
+      "itens_requeridos": [
+        "capacete",
+        "colete refletivo"
+      ],
+      "crop_path": "C:\\Users\\cpmic\\OneDrive\\Documentos\\compliance_ai_dimensa_terminal\\outputs\\crops\\Construtiva Engenharia S.A. 2 _person_5.png"
+    },
+    {
+      "pessoa_id": 6,
+      "bbox": {
+        "x1": 654,
+        "y1": 181,
+        "x2": 750,
+        "y2": 499
+      },
+      "status": "Indeterminado",
+      "justificativa": "Regras relevantes recuperadas, mas a verificação visual detalhada de EPI ainda está em modo heurístico. Itens possivelmente exigidos: capacete, colete refletivo.",
+      "itens_requeridos": [
+        "capacete",
+        "colete refletivo"
+      ],
+      "crop_path": "C:\\Users\\cpmic\\OneDrive\\Documentos\\compliance_ai_dimensa_terminal\\outputs\\crops\\Construtiva Engenharia S.A. 2 _person_6.png"
+    },
+    {
+      "pessoa_id": 7,
+      "bbox": {
+        "x1": 363,
+        "y1": 227,
+        "x2": 589,
+        "y2": 949
+      },
+      "status": "Indeterminado",
+      "justificativa": "Regras relevantes recuperadas, mas a verificação visual detalhada de EPI ainda está em modo heurístico. Itens possivelmente exigidos: capacete, colete refletivo.",
+      "itens_requeridos": [
+        "capacete",
+        "colete refletivo"
+      ],
+      "crop_path": "C:\\Users\\cpmic\\OneDrive\\Documentos\\compliance_ai_dimensa_terminal\\outputs\\crops\\Construtiva Engenharia S.A. 2 _person_7.png"
+    },
+    {
+      "pessoa_id": 8,
+      "bbox": {
+        "x1": 1316,
+        "y1": 175,
+        "x2": 1435,
+        "y2": 447
+      },
+      "status": "Indeterminado",
+      "justificativa": "Regras relevantes recuperadas, mas a verificação visual detalhada de EPI ainda está em modo heurístico. Itens possivelmente exigidos: capacete, colete refletivo.",
+      "itens_requeridos": [
+        "capacete",
+        "colete refletivo"
+      ],
+      "crop_path": "C:\\Users\\cpmic\\OneDrive\\Documentos\\compliance_ai_dimensa_terminal\\outputs\\crops\\Construtiva Engenharia S.A. 2 _person_8.png"
+    }
+  ],
+  "status_summary": {
+    "Conforme": 0,
+    "Não conforme": 0,
+    "Indeterminado": 8
+  }
+}

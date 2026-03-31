@@ -1,0 +1,78 @@
+{
+  "image_name": "img_4.png",
+  "people_count": 5,
+  "rules_count": 0,
+  "regras_recuperadas": [],
+  "resultado": [
+    {
+      "pessoa_id": 1,
+      "bbox": {
+        "x1": 537,
+        "y1": 457,
+        "x2": 669,
+        "y2": 799
+      },
+      "status": "Indeterminado",
+      "justificativa": "Não foi possível identificar requisitos claros de EPI/uniforme nas regras recuperadas para esta pessoa.",
+      "itens_requeridos": [],
+      "crop_path": "C:\\Users\\cpmic\\OneDrive\\Documentos\\compliance_ai_dimensa_terminal\\outputs\\crops\\img_4_person_1.png"
+    },
+    {
+      "pessoa_id": 2,
+      "bbox": {
+        "x1": 692,
+        "y1": 461,
+        "x2": 806,
+        "y2": 804
+      },
+      "status": "Indeterminado",
+      "justificativa": "Não foi possível identificar requisitos claros de EPI/uniforme nas regras recuperadas para esta pessoa.",
+      "itens_requeridos": [],
+      "crop_path": "C:\\Users\\cpmic\\OneDrive\\Documentos\\compliance_ai_dimensa_terminal\\outputs\\crops\\img_4_person_2.png"
+    },
+    {
+      "pessoa_id": 3,
+      "bbox": {
+        "x1": 391,
+        "y1": 484,
+        "x2": 527,
+        "y2": 847
+      },
+      "status": "Indeterminado",
+      "justificativa": "Não foi possível identificar requisitos claros de EPI/uniforme nas regras recuperadas para esta pessoa.",
+      "itens_requeridos": [],
+      "crop_path": "C:\\Users\\cpmic\\OneDrive\\Documentos\\compliance_ai_dimensa_terminal\\outputs\\crops\\img_4_person_3.png"
+    },
+    {
+      "pessoa_id": 4,
+      "bbox": {
+        "x1": 901,
+        "y1": 462,
+        "x2": 946,
+        "y2": 595
+      },
+      "status": "Indeterminado",
+      "justificativa": "Não foi possível identificar requisitos claros de EPI/uniforme nas regras recuperadas para esta pessoa.",
+      "itens_requeridos": [],
+      "crop_path": "C:\\Users\\cpmic\\OneDrive\\Documentos\\compliance_ai_dimensa_terminal\\outputs\\crops\\img_4_person_4.png"
+    },
+    {
+      "pessoa_id": 5,
+      "bbox": {
+        "x1": 88,
+        "y1": 473,
+        "x2": 228,
+        "y2": 720
+      },
+      "status": "Indeterminado",
+      "justificativa": "Não foi possível identificar requisitos claros de EPI/uniforme nas regras recuperadas para esta pessoa.",
+      "itens_requeridos": [],
+      "crop_path": "C:\\Users\\cpmic\\OneDrive\\Documentos\\compliance_ai_dimensa_terminal\\outputs\\crops\\img_4_person_5.png"
+    }
+  ],
+  "status_summary": {
+    "Conforme": 0,
+    "Não conforme": 0,
+    "Indeterminado": 5
+  }
+}

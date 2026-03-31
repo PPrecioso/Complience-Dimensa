@@ -1,0 +1,173 @@
+{
+  "image_name": "vitalcare_2.png",
+  "people_count": 7,
+  "rules_count": 4,
+  "regras_recuperadas": [
+    {
+      "text": "zação. Visão: Ser referência regional em serviços de saúde integrados. Valores: Segurança do Paciente, Ética, Qualidade Assistencial, Responsabilidade Sanitária e Respeito à Vida. 3. Conduta Profissional e Sigilo Os colaboradores devem manter postura ética, respeitando o sigilo das informações clínicas, dados pessoais de pacientes e protocolos institucionais. O descumprimento dessas diretrizes pode resultar em sanções administrativas e legais. 4. Identificação e Controle de Acesso O uso de crachá visível é obrigatório em todas as áreas da instituição. Em áreas assistenciais restritas, o acesso é controlado conforme perfil funcional e treinamento prévio. 5. Apresentação Pessoal e Vestimenta",
+      "metadata": {
+        "source_file": "VitalCare_Manual_Institucional_Completo.pdf",
+        "page": 1,
+        "company": "VitalCare",
+        "doc_type": "pdf"
+      },
+      "score": 0.2149157995752499
+    },
+    {
+      "text": "Ambientes Administrativos: Aplica-se vestimenta social ou casual profissional, compatível com ambiente corporativo. Ambientes Assistenciais: A apresentação pessoal deve priorizar higiene, segurança e identificação funcional. É vedado o uso de adornos pessoais, como anéis, pulseiras, relógios e unhas artificiais, devido ao risco de contaminação cruzada. Ambientes de Atendimento ao Público: A vestimenta deve transmitir asseio, profissionalismo e clareza na identificação do colaborador. 6. Diretrizes de Biossegurança e Controle de Infecção A VitalCare adota protocolos rigorosos de biossegurança, visando à prevenção de infecções relacionadas à assistência à saúde (IRAS) e à proteção de pacientes, colaboradores e visitantes. 6.1 Trecho sobre Requisitos por Ambiente Nas áreas administrativas e de apoio, não há exigência padrão de equipamentos de proteção individual, devendo-se observar normas",
+      "metadata": {
+        "source_file": "VitalCare_Manual_Institucional_Completo.pdf",
+        "page": 2,
+        "company": "VitalCare",
+        "doc_type": "pdf"
+      },
+      "score": 0.1941574127843524
+    },
+    {
+      "text": "uisitos por Ambiente Nas áreas administrativas e de apoio, não há exigência padrão de equipamentos de proteção individual, devendo-se observar normas de higiene, ergonomia e conduta profissional. Em áreas assistenciais de atendimento direto ao paciente, entende-se como prática indispensável a higienização frequente das mãos conforme protocolo institucional, bem como o uso de jaleco ou avental de uso exclusivo dentro da instituição. O uso de máscara cirúrgica pode ser requerido conforme avaliação de risco, surtos epidemiológicos ou tipo de atendimento. Em setores de isolamento ou procedimentos invasivos, o uso de equipamentos de proteção individual específicos, como luvas descartáveis, máscaras de proteção respiratória e aventais impermeáveis, é considerado obrigatório durante toda a atividade. Em áreas de apoio técnico, como laboratórios e centrais de esterilização, requisitos adicionais",
+      "metadata": {
+        "source_file": "VitalCare_Manual_Institucional_Completo.pdf",
+        "page": 2,
+        "company": "VitalCare",
+        "doc_type": "pdf"
+      },
+      "score": 0.14902903378454602
+    },
+    {
+      "text": "MANUAL DO COLABORADOR E BOAS PRÁTICAS ASSISTENCIAIS EMPRESA: VITALCARE SERVIÇOS DE SAÚDE INTEGRADOS S.A. DIRETORIA CLÍNICA, OPERAÇÕES E COMPLIANCE CLASSIFICAÇÃO: USO INTERNO Este manual estabelece diretrizes institucionais, normas de conduta, boas práticas assistenciais e requisitos de biossegurança aplicáveis a todos os colaboradores, terceiros e prestadores de serviço. 1. Mensagem da Diretoria A VitalCare atua em ambientes assistenciais onde a segurança do paciente, o controle de riscos biológicos e a ética profissional são princípios inegociáveis. Este documento orienta a atuação responsável em todos os contextos assistenciais e administrativos. 2. Perfil Organizacional Missão: Promover cuidado em saúde com excelência, segurança e humanização. Visão: Ser referência regional em serviços de saúde integrados. Valores: Segurança do Paciente, Ética, Qualidade Assistencial, Responsabilidade",
+      "metadata": {
+        "source_file": "VitalCare_Manual_Institucional_Completo.pdf",
+        "page": 1,
+        "company": "VitalCare",
+        "doc_type": "pdf"
+      },
+      "score": 0.035623524993954825
+    }
+  ],
+  "resultado": [
+    {
+      "pessoa_id": 1,
+      "bbox": {
+        "x1": 505,
+        "y1": 372,
+        "x2": 1085,
+        "y2": 988
+      },
+      "status": "Indeterminado",
+      "justificativa": "Regras relevantes recuperadas, mas a verificação visual detalhada de EPI ainda está em modo heurístico. Itens possivelmente exigidos: luvas, jaleco, máscara.",
+      "itens_requeridos": [
+        "luvas",
+        "jaleco",
+        "máscara"
+      ],
+      "crop_path": "C:\\Users\\cpmic\\OneDrive\\Documentos\\compliance_ai_dimensa_terminal\\outputs\\crops\\vitalcare_2_person_1.png"
+    },
+    {
+      "pessoa_id": 2,
+      "bbox": {
+        "x1": 1151,
+        "y1": 198,
+        "x2": 1398,
+        "y2": 511
+      },
+      "status": "Indeterminado",
+      "justificativa": "Regras relevantes recuperadas, mas a verificação visual detalhada de EPI ainda está em modo heurístico. Itens possivelmente exigidos: luvas, jaleco, máscara.",
+      "itens_requeridos": [
+        "luvas",
+        "jaleco",
+        "máscara"
+      ],
+      "crop_path": "C:\\Users\\cpmic\\OneDrive\\Documentos\\compliance_ai_dimensa_terminal\\outputs\\crops\\vitalcare_2_person_2.png"
+    },
+    {
+      "pessoa_id": 3,
+      "bbox": {
+        "x1": 351,
+        "y1": 178,
+        "x2": 717,
+        "y2": 986
+      },
+      "status": "Indeterminado",
+      "justificativa": "Regras relevantes recuperadas, mas a verificação visual detalhada de EPI ainda está em modo heurístico. Itens possivelmente exigidos: luvas, jaleco, máscara.",
+      "itens_requeridos": [
+        "luvas",
+        "jaleco",
+        "máscara"
+      ],
+      "crop_path": "C:\\Users\\cpmic\\OneDrive\\Documentos\\compliance_ai_dimensa_terminal\\outputs\\crops\\vitalcare_2_person_3.png"
+    },
+    {
+      "pessoa_id": 4,
+      "bbox": {
+        "x1": 799,
+        "y1": 259,
+        "x2": 1305,
+        "y2": 962
+      },
+      "status": "Indeterminado",
+      "justificativa": "Regras relevantes recuperadas, mas a verificação visual detalhada de EPI ainda está em modo heurístico. Itens possivelmente exigidos: luvas, jaleco, máscara.",
+      "itens_requeridos": [
+        "luvas",
+        "jaleco",
+        "máscara"
+      ],
+      "crop_path": "C:\\Users\\cpmic\\OneDrive\\Documentos\\compliance_ai_dimensa_terminal\\outputs\\crops\\vitalcare_2_person_4.png"
+    },
+    {
+      "pessoa_id": 5,
+      "bbox": {
+        "x1": 44,
+        "y1": 181,
+        "x2": 322,
+        "y2": 983
+      },
+      "status": "Indeterminado",
+      "justificativa": "Regras relevantes recuperadas, mas a verificação visual detalhada de EPI ainda está em modo heurístico. Itens possivelmente exigidos: luvas, jaleco, máscara.",
+      "itens_requeridos": [
+        "luvas",
+        "jaleco",
+        "máscara"
+      ],
+      "crop_path": "C:\\Users\\cpmic\\OneDrive\\Documentos\\compliance_ai_dimensa_terminal\\outputs\\crops\\vitalcare_2_person_5.png"
+    },
+    {
+      "pessoa_id": 6,
+      "bbox": {
+        "x1": 150,
+        "y1": 234,
+        "x2": 483,
+        "y2": 840
+      },
+      "status": "Indeterminado",
+      "justificativa": "Regras relevantes recuperadas, mas a verificação visual detalhada de EPI ainda está em modo heurístico. Itens possivelmente exigidos: luvas, jaleco, máscara.",
+      "itens_requeridos": [
+        "luvas",
+        "jaleco",
+        "máscara"
+      ],
+      "crop_path": "C:\\Users\\cpmic\\OneDrive\\Documentos\\compliance_ai_dimensa_terminal\\outputs\\crops\\vitalcare_2_person_6.png"
+    },
+    {
+      "pessoa_id": 7,
+      "bbox": {
+        "x1": 940,
+        "y1": 148,
+        "x2": 1041,
+        "y2": 296
+      },
+      "status": "Indeterminado",
+      "justificativa": "Regras relevantes recuperadas, mas a verificação visual detalhada de EPI ainda está em modo heurístico. Itens possivelmente exigidos: luvas, jaleco, máscara.",
+      "itens_requeridos": [
+        "luvas",
+        "jaleco",
+        "máscara"
+      ],
+      "crop_path": "C:\\Users\\cpmic\\OneDrive\\Documentos\\compliance_ai_dimensa_terminal\\outputs\\crops\\vitalcare_2_person_7.png"
+    }
+  ],
+  "status_summary": {
+    "Conforme": 0,
+    "Não conforme": 0,
+    "Indeterminado": 7
+  }
+}

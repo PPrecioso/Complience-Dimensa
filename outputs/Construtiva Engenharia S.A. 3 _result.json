@@ -1,0 +1,170 @@
+{
+  "image_name": "Construtiva Engenharia S.A. 3 .png",
+  "people_count": 7,
+  "rules_count": 5,
+  "regras_recuperadas": [
+    {
+      "text": "MANUAL DO COLABORADOR E CÓDIGO DE CONDUTA – CONSTRUTIVA ENGENHARIA S.A. Classificação: Uso Interno. Diretoria de Pessoas, Compliance e Segurança. Este manual tem como finalidade estabelecer, de forma ampla e detalhada, as diretrizes institucionais, normas de conduta, políticas internas, orientações operacionais e princípios de segurança que devem ser observados por todos os colaboradores, terceiros e prestadores de serviço que atuam em nome da Construtiva Engenharia S.A., independentemente do vínculo contratual ou do local de atuação. 1. Contexto Institucional e Direcionamento Estratégico A Construtiva Engenharia S.A. atua no segmento de engenharia pesada, infraestrutura e grandes obras, ope",
+      "metadata": {
+        "source_file": "Construtiva_Engenharia_Manual_Completo_Texto_Rendido.pdf",
+        "page": 1,
+        "company": "Construtiva Engenharia",
+        "sectors": [
+          "Operacional",
+          "Administrativo"
+        ]
+      },
+      "score": 0.189408793535473
+    },
+    {
+      "text": "cer sob cargas içadas. 5.3. Matriz de EPIs e Padrão Visual por Setor Operacional",
+      "metadata": {
+        "source_file": "Manual_Integracao_LogiTrans_v2023.pdf",
+        "page": 6,
+        "company": "LogiTrans Global",
+        "sectors": [
+          "Operacional",
+          "Logística"
+        ]
+      },
+      "score": 0.17654939649284862
+    },
+    {
+      "text": "de, sendo proibido o uso de roupas soltas, acessórios pendentes ou itens que possam enroscar em máquinas, equipamentos ou estruturas. 6. Saúde, Segurança e Meio Ambiente (SSMA) A gestão de Saúde, Segurança e Meio Ambiente é tratada como prioridade estratégica pela Construtiva Engenharia. A empresa mantém políticas, procedimentos e programas voltados à prevenção de acidentes, à proteção da saúde dos colaboradores e à mitigação de impactos ambientais. O cumprimento das normas de segurança é condição indispensável para a permanência e atuação em qualquer área operacional, sendo responsabilidade de todos identificar, comunicar e mitigar riscos. 6.1 Diretrizes de Segurança por Ambiente e Setor No",
+      "metadata": {
+        "source_file": "Construtiva_Engenharia_Manual_Completo_Texto_Rendido.pdf",
+        "page": 2,
+        "company": "Construtiva Engenharia",
+        "sectors": [
+          "Operacional",
+          "Administrativo"
+        ]
+      },
+      "score": 0.13356653539151866
+    },
+    {
+      "text": "nto Estratégico A Construtiva Engenharia S.A. atua no segmento de engenharia pesada, infraestrutura e grandes obras, operando em ambientes complexos que exigem elevado grau de responsabilidade técnica, organizacional e humana. A empresa compreende que seus resultados estão diretamente relacionados à conduta ética, ao cumprimento de normas e à adoção de práticas seguras no cotidiano das operações. Este documento deve ser interpretado como um instrumento vivo, que orienta comportamentos, decisões e práticas diárias, servindo de referência permanente para todos os níveis hierárquicos. 2. Identidade Organizacional, Cultura e Valores A identidade organizacional da Construtiva Engenharia é fundame",
+      "metadata": {
+        "source_file": "Construtiva_Engenharia_Manual_Completo_Texto_Rendido.pdf",
+        "page": 1,
+        "company": "Construtiva Engenharia",
+        "sectors": [
+          "Operacional",
+          "Administrativo"
+        ]
+      },
+      "score": 0.13297486678036388
+    },
+    {
+      "text": "rquicos. 2. Identidade Organizacional, Cultura e Valores A identidade organizacional da Construtiva Engenharia é fundamentada em valores sólidos que norteiam suas ações e decisões estratégicas. A missão da empresa consiste em executar projetos de engenharia com excelência técnica, segurança operacional e responsabilidade social, buscando sempre o equilíbrio entre produtividade e preservação da integridade física e moral das pessoas envolvidas. A visão corporativa está orientada para o reconhecimento nacional como referência em engenharia pesada, gestão de riscos e inovação, sustentada por uma cultura organizacional que prioriza segurança, integridade, eficiência, respeito às pessoas e compro",
+      "metadata": {
+        "source_file": "Construtiva_Engenharia_Manual_Completo_Texto_Rendido.pdf",
+        "page": 1,
+        "company": "Construtiva Engenharia",
+        "sectors": [
+          "Operacional",
+          "Administrativo"
+        ]
+      },
+      "score": 0.12187315757963349
+    }
+  ],
+  "resultado": [
+    {
+      "pessoa_id": 1,
+      "bbox": {
+        "x1": 230,
+        "y1": 234,
+        "x2": 466,
+        "y2": 886
+      },
+      "status": "Indeterminado",
+      "justificativa": "Não foi possível identificar requisitos claros de EPI/uniforme nas regras recuperadas para esta pessoa.",
+      "itens_requeridos": [],
+      "crop_path": "C:\\Users\\cpmic\\OneDrive\\Documentos\\compliance_ai_dimensa_terminal\\outputs\\crops\\Construtiva Engenharia S.A. 3 _person_1.png"
+    },
+    {
+      "pessoa_id": 2,
+      "bbox": {
+        "x1": 429,
+        "y1": 224,
+        "x2": 653,
+        "y2": 934
+      },
+      "status": "Indeterminado",
+      "justificativa": "Não foi possível identificar requisitos claros de EPI/uniforme nas regras recuperadas para esta pessoa.",
+      "itens_requeridos": [],
+      "crop_path": "C:\\Users\\cpmic\\OneDrive\\Documentos\\compliance_ai_dimensa_terminal\\outputs\\crops\\Construtiva Engenharia S.A. 3 _person_2.png"
+    },
+    {
+      "pessoa_id": 3,
+      "bbox": {
+        "x1": 755,
+        "y1": 233,
+        "x2": 849,
+        "y2": 515
+      },
+      "status": "Indeterminado",
+      "justificativa": "Não foi possível identificar requisitos claros de EPI/uniforme nas regras recuperadas para esta pessoa.",
+      "itens_requeridos": [],
+      "crop_path": "C:\\Users\\cpmic\\OneDrive\\Documentos\\compliance_ai_dimensa_terminal\\outputs\\crops\\Construtiva Engenharia S.A. 3 _person_3.png"
+    },
+    {
+      "pessoa_id": 4,
+      "bbox": {
+        "x1": 1274,
+        "y1": 441,
+        "x2": 1447,
+        "y2": 746
+      },
+      "status": "Indeterminado",
+      "justificativa": "Não foi possível identificar requisitos claros de EPI/uniforme nas regras recuperadas para esta pessoa.",
+      "itens_requeridos": [],
+      "crop_path": "C:\\Users\\cpmic\\OneDrive\\Documentos\\compliance_ai_dimensa_terminal\\outputs\\crops\\Construtiva Engenharia S.A. 3 _person_4.png"
+    },
+    {
+      "pessoa_id": 5,
+      "bbox": {
+        "x1": 661,
+        "y1": 229,
+        "x2": 754,
+        "y2": 509
+      },
+      "status": "Indeterminado",
+      "justificativa": "Não foi possível identificar requisitos claros de EPI/uniforme nas regras recuperadas para esta pessoa.",
+      "itens_requeridos": [],
+      "crop_path": "C:\\Users\\cpmic\\OneDrive\\Documentos\\compliance_ai_dimensa_terminal\\outputs\\crops\\Construtiva Engenharia S.A. 3 _person_5.png"
+    },
+    {
+      "pessoa_id": 6,
+      "bbox": {
+        "x1": 128,
+        "y1": 250,
+        "x2": 265,
+        "y2": 777
+      },
+      "status": "Indeterminado",
+      "justificativa": "Não foi possível identificar requisitos claros de EPI/uniforme nas regras recuperadas para esta pessoa.",
+      "itens_requeridos": [],
+      "crop_path": "C:\\Users\\cpmic\\OneDrive\\Documentos\\compliance_ai_dimensa_terminal\\outputs\\crops\\Construtiva Engenharia S.A. 3 _person_6.png"
+    },
+    {
+      "pessoa_id": 7,
+      "bbox": {
+        "x1": 1161,
+        "y1": 330,
+        "x2": 1296,
+        "y2": 722
+      },
+      "status": "Indeterminado",
+      "justificativa": "Não foi possível identificar requisitos claros de EPI/uniforme nas regras recuperadas para esta pessoa.",
+      "itens_requeridos": [],
+      "crop_path": "C:\\Users\\cpmic\\OneDrive\\Documentos\\compliance_ai_dimensa_terminal\\outputs\\crops\\Construtiva Engenharia S.A. 3 _person_7.png"
+    }
+  ],
+  "status_summary": {
+    "Conforme": 0,
+    "Não conforme": 0,
+    "Indeterminado": 7
+  }
+}

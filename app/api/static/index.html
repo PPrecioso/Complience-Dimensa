@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Compliance AI</title>
+  <link rel="stylesheet" href="/static/styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <img src="/static/dimensa-logo.png" alt="Dimensa" class="logo" />
+      <div>
+        <h1>Compliance AI</h1>
+        <p>Sistema inteligente de verificação de conformidade visual</p>
+      </div>
+    </div>
+    <button id="reindexBtn" class="btn accent">Reindexar documentos</button>
+  </header>
+
+  <main class="page">
+    <section class="panel hero">
+      <div>
+        <span class="eyebrow">Desafio técnico</span>
+        <h2>Painel operacional de análise</h2>
+        <p>Escolha uma imagem, informe empresa e setor, envie novos arquivos e acompanhe o histórico das análises.</p>
+      </div>
+    </section>
+
+    <section class="grid two">
+      <div class="panel">
+        <h3>Rodar análise</h3>
+        <form id="analyzeForm" class="stack">
+          <label>Empresa
+            <input name="company" value="Construtiva Engenharia" required />
+          </label>
+          <label>Setor
+            <input name="sector" value="Operacional" required />
+          </label>
+          <label>Imagem
+            <select name="image_name" id="imageSelect"></select>
+          </label>
+          <button type="submit" class="btn accent">Analisar imagem</button>
+        </form>
+        <div id="previewBox" class="previewBox"></div>
+      </div>
+
+      <div class="panel">
+        <h3>Uploads</h3>
+        <div class="uploadGroup">
+          <form id="uploadDocForm" class="stack" enctype="multipart/form-data">
+            <label>Novo PDF ou DOCX
+              <input type="file" name="file" accept=".pdf,.docx" required />
+            </label>
+            <button type="submit" class="btn">Enviar documento</button>
+          </form>
+
+          <form id="uploadImgForm" class="stack" enctype="multipart/form-data">
+            <label>Nova imagem
+              <input type="file" name="file" accept=".png,.jpg,.jpeg,.webp" required />
+            </label>
+            <button type="submit" class="btn">Enviar imagem</button>
+          </form>
+        </div>
+        <div id="messageBox" class="messageBox"></div>
+      </div>
+    </section>
+
+    <section class="grid four" id="statsGrid">
+      <div class="metric"><span>Imagens</span><strong id="metricImages">0</strong></div>
+      <div class="metric"><span>Documentos</span><strong id="metricDocs">0</strong></div>
+      <div class="metric"><span>Pessoas detectadas</span><strong id="metricPeople">0</strong></div>
+      <div class="metric"><span>Regras recuperadas</span><strong id="metricRules">0</strong></div>
+    </section>
+
+    <section class="grid two">
+      <div class="panel">
+        <h3>Resultado da análise</h3>
+        <pre id="resultBox" class="resultBox">Nenhuma análise executada.</pre>
+      </div>
+      <div class="panel">
+        <h3>Documentos indexados</h3>
+        <ul id="docsList" class="simpleList"></ul>
+      </div>
+    </section>
+
+    <section class="panel">
+      <h3>Histórico recente</h3>
+      <div id="historyTable" class="historyTable"></div>
+    </section>
+  </main>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

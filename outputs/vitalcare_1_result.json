@@ -1,0 +1,274 @@
+{
+  "image_name": "vitalcare_1.png",
+  "people_count": 15,
+  "rules_count": 5,
+  "regras_recuperadas": [
+    {
+      "text": "cer sob cargas içadas. 5.3. Matriz de EPIs e Padrão Visual por Setor Operacional",
+      "metadata": {
+        "source_file": "Manual_Integracao_LogiTrans_v2023.pdf",
+        "page": 6,
+        "company": "LogiTrans Global",
+        "sectors": [
+          "Operacional",
+          "Logística"
+        ]
+      },
+      "score": 0.1726592402774915
+    },
+    {
+      "text": "rer qualquer punição. 5.2. Regras de Ouro (Golden Rules) A violação de qualquer uma das Regras de Ouro é considerada falta gravíssima, sujeita a demissão por justa causa imediata. ​ Bloqueio de Energia (LOTO): Nunca realizar manutenção em máquinas energizadas. ​ Trabalho em Altura: Uso de cinto de segurança tipo paraquedista obrigatório acima de 2,0 metros. ​ Espaço Confinado: Entrada permitida apenas com PET (Permissão de Entrada) e vigia. ​ Álcool e Drogas: Tolerância zero para trabalho sob efeito de substâncias psicoativas. ​ Cargas Suspensas: Jamais transitar ou permanecer sob cargas içadas. 5.3. Matriz de EPIs e Padrão Visual por Setor Operacional",
+      "metadata": {
+        "source_file": "Manual_Integracao_LogiTrans_v2023.pdf",
+        "page": 6,
+        "company": "LogiTrans Global",
+        "sectors": [
+          "Operacional",
+          "Logística"
+        ]
+      },
+      "score": 0.1155742716724647
+    },
+    {
+      "text": "MANUAL DO COLABORADOR E BOAS PRÁTICAS ASSISTENCIAIS EMPRESA: VITALCARE SERVIÇOS DE SAÚDE INTEGRADOS S.A. DIRETORIA CLÍNICA, OPERAÇÕES E COMPLIANCE CLASSIFICAÇÃO: USO INTERNO Este manual estabelece diretrizes institucionais, normas de conduta, boas práticas assistenciais e requisitos de biossegurança aplicáveis a todos os colaboradores, terceiros e prestadores de serviço. 1. Mensagem da Diretoria A VitalCare atua em ambientes assistenciais onde a segurança do paciente, o controle de riscos biológicos e a ética profissional são princípios inegociáveis. Este documento orienta a atuação responsável em todos os contextos assistenciais e administrativos. 2. Perfil Organizacional Missão: Promover c",
+      "metadata": {
+        "source_file": "VitalCare_Manual_Institucional_Completo.pdf",
+        "page": 1,
+        "company": "VitalCare",
+        "sectors": [
+          "Assistencial",
+          "Operacional"
+        ]
+      },
+      "score": 0.11069667158123422
+    },
+    {
+      "text": " e das pessoas, sendo dever do colaborador zelar pelo uso correto e intransferível de sua identificação. 5. Código de Vestimenta e Apresentação Pessoal",
+      "metadata": {
+        "source_file": "Construtiva_Engenharia_Manual_Completo_Texto_Rendido.pdf",
+        "page": 1,
+        "company": "Construtiva Engenharia",
+        "sectors": [
+          "Operacional",
+          "Administrativo"
+        ]
+      },
+      "score": 0.09789042511079588
+    },
+    {
+      "text": "6. GESTÃO DE FROTAS E MOTORISTAS Os motoristas (próprios e agregados) são a face visível da LogiTrans para o cliente final e para a sociedade nas estradas. 6.1. Política de Veículos Leves (Carros da Empresa) ​ O veículo é uma ferramenta de trabalho. O uso para fins particulares é permitido apenas conforme política específica de \"Car Policy\". ​ Multas de trânsito decorrentes de infração do condutor serão descontadas em folha de pagamento. ​ É proibido dar carona a pessoas estranhas à empresa. 6.2. Motoristas de Caminhão e Entregadores Esta seção define o padrão de apresentação e segurança para os condutores de veículos de carga. 6.2.1. Apresentação Pessoal e Uniforme Durante as atividades de ",
+      "metadata": {
+        "source_file": "Manual_Integracao_LogiTrans_v2023.pdf",
+        "page": 9,
+        "company": "LogiTrans Global",
+        "sectors": [
+          "Operacional",
+          "Logística"
+        ]
+      },
+      "score": 0.09604388779479289
+    }
+  ],
+  "resultado": [
+    {
+      "pessoa_id": 1,
+      "bbox": {
+        "x1": 914,
+        "y1": 364,
+        "x2": 1370,
+        "y2": 828
+      },
+      "status": "Indeterminado",
+      "justificativa": "Não foi possível identificar requisitos claros de EPI/uniforme nas regras recuperadas para esta pessoa.",
+      "itens_requeridos": [],
+      "crop_path": "C:\\Users\\cpmic\\OneDrive\\Documentos\\compliance_ai_dimensa_terminal\\outputs\\crops\\vitalcare_1_person_1.png"
+    },
+    {
+      "pessoa_id": 2,
+      "bbox": {
+        "x1": 163,
+        "y1": 434,
+        "x2": 640,
+        "y2": 985
+      },
+      "status": "Indeterminado",
+      "justificativa": "Não foi possível identificar requisitos claros de EPI/uniforme nas regras recuperadas para esta pessoa.",
+      "itens_requeridos": [],
+      "crop_path": "C:\\Users\\cpmic\\OneDrive\\Documentos\\compliance_ai_dimensa_terminal\\outputs\\crops\\vitalcare_1_person_2.png"
+    },
+    {
+      "pessoa_id": 3,
+      "bbox": {
+        "x1": 881,
+        "y1": 141,
+        "x2": 987,
+        "y2": 524
+      },
+      "status": "Indeterminado",
+      "justificativa": "Não foi possível identificar requisitos claros de EPI/uniforme nas regras recuperadas para esta pessoa.",
+      "itens_requeridos": [],
+      "crop_path": "C:\\Users\\cpmic\\OneDrive\\Documentos\\compliance_ai_dimensa_terminal\\outputs\\crops\\vitalcare_1_person_3.png"
+    },
+    {
+      "pessoa_id": 4,
+      "bbox": {
+        "x1": 1002,
+        "y1": 135,
+        "x2": 1111,
+        "y2": 529
+      },
+      "status": "Indeterminado",
+      "justificativa": "Não foi possível identificar requisitos claros de EPI/uniforme nas regras recuperadas para esta pessoa.",
+      "itens_requeridos": [],
+      "crop_path": "C:\\Users\\cpmic\\OneDrive\\Documentos\\compliance_ai_dimensa_terminal\\outputs\\crops\\vitalcare_1_person_4.png"
+    },
+    {
+      "pessoa_id": 5,
+      "bbox": {
+        "x1": 125,
+        "y1": 199,
+        "x2": 320,
+        "y2": 432
+      },
+      "status": "Indeterminado",
+      "justificativa": "Não foi possível identificar requisitos claros de EPI/uniforme nas regras recuperadas para esta pessoa.",
+      "itens_requeridos": [],
+      "crop_path": "C:\\Users\\cpmic\\OneDrive\\Documentos\\compliance_ai_dimensa_terminal\\outputs\\crops\\vitalcare_1_person_5.png"
+    },
+    {
+      "pessoa_id": 6,
+      "bbox": {
+        "x1": 1222,
+        "y1": 168,
+        "x2": 1323,
+        "y2": 395
+      },
+      "status": "Indeterminado",
+      "justificativa": "Não foi possível identificar requisitos claros de EPI/uniforme nas regras recuperadas para esta pessoa.",
+      "itens_requeridos": [],
+      "crop_path": "C:\\Users\\cpmic\\OneDrive\\Documentos\\compliance_ai_dimensa_terminal\\outputs\\crops\\vitalcare_1_person_6.png"
+    },
+    {
+      "pessoa_id": 7,
+      "bbox": {
+        "x1": 1093,
+        "y1": 182,
+        "x2": 1200,
+        "y2": 395
+      },
+      "status": "Indeterminado",
+      "justificativa": "Não foi possível identificar requisitos claros de EPI/uniforme nas regras recuperadas para esta pessoa.",
+      "itens_requeridos": [],
+      "crop_path": "C:\\Users\\cpmic\\OneDrive\\Documentos\\compliance_ai_dimensa_terminal\\outputs\\crops\\vitalcare_1_person_7.png"
+    },
+    {
+      "pessoa_id": 8,
+      "bbox": {
+        "x1": 426,
+        "y1": 113,
+        "x2": 778,
+        "y2": 647
+      },
+      "status": "Indeterminado",
+      "justificativa": "Não foi possível identificar requisitos claros de EPI/uniforme nas regras recuperadas para esta pessoa.",
+      "itens_requeridos": [],
+      "crop_path": "C:\\Users\\cpmic\\OneDrive\\Documentos\\compliance_ai_dimensa_terminal\\outputs\\crops\\vitalcare_1_person_8.png"
+    },
+    {
+      "pessoa_id": 9,
+      "bbox": {
+        "x1": 344,
+        "y1": 204,
+        "x2": 412,
+        "y2": 290
+      },
+      "status": "Indeterminado",
+      "justificativa": "Não foi possível identificar requisitos claros de EPI/uniforme nas regras recuperadas para esta pessoa.",
+      "itens_requeridos": [],
+      "crop_path": "C:\\Users\\cpmic\\OneDrive\\Documentos\\compliance_ai_dimensa_terminal\\outputs\\crops\\vitalcare_1_person_9.png"
+    },
+    {
+      "pessoa_id": 10,
+      "bbox": {
+        "x1": 1061,
+        "y1": 182,
+        "x2": 1202,
+        "y2": 511
+      },
+      "status": "Indeterminado",
+      "justificativa": "Não foi possível identificar requisitos claros de EPI/uniforme nas regras recuperadas para esta pessoa.",
+      "itens_requeridos": [],
+      "crop_path": "C:\\Users\\cpmic\\OneDrive\\Documentos\\compliance_ai_dimensa_terminal\\outputs\\crops\\vitalcare_1_person_10.png"
+    },
+    {
+      "pessoa_id": 11,
+      "bbox": {
+        "x1": 344,
+        "y1": 162,
+        "x2": 580,
+        "y2": 461
+      },
+      "status": "Indeterminado",
+      "justificativa": "Não foi possível identificar requisitos claros de EPI/uniforme nas regras recuperadas para esta pessoa.",
+      "itens_requeridos": [],
+      "crop_path": "C:\\Users\\cpmic\\OneDrive\\Documentos\\compliance_ai_dimensa_terminal\\outputs\\crops\\vitalcare_1_person_11.png"
+    },
+    {
+      "pessoa_id": 12,
+      "bbox": {
+        "x1": 431,
+        "y1": 110,
+        "x2": 779,
+        "y2": 866
+      },
+      "status": "Indeterminado",
+      "justificativa": "Não foi possível identificar requisitos claros de EPI/uniforme nas regras recuperadas para esta pessoa.",
+      "itens_requeridos": [],
+      "crop_path": "C:\\Users\\cpmic\\OneDrive\\Documentos\\compliance_ai_dimensa_terminal\\outputs\\crops\\vitalcare_1_person_12.png"
+    },
+    {
+      "pessoa_id": 13,
+      "bbox": {
+        "x1": 344,
+        "y1": 165,
+        "x2": 580,
+        "y2": 588
+      },
+      "status": "Indeterminado",
+      "justificativa": "Não foi possível identificar requisitos claros de EPI/uniforme nas regras recuperadas para esta pessoa.",
+      "itens_requeridos": [],
+      "crop_path": "C:\\Users\\cpmic\\OneDrive\\Documentos\\compliance_ai_dimensa_terminal\\outputs\\crops\\vitalcare_1_person_13.png"
+    },
+    {
+      "pessoa_id": 14,
+      "bbox": {
+        "x1": 1238,
+        "y1": 276,
+        "x2": 1446,
+        "y2": 459
+      },
+      "status": "Indeterminado",
+      "justificativa": "Não foi possível identificar requisitos claros de EPI/uniforme nas regras recuperadas para esta pessoa.",
+      "itens_requeridos": [],
+      "crop_path": "C:\\Users\\cpmic\\OneDrive\\Documentos\\compliance_ai_dimensa_terminal\\outputs\\crops\\vitalcare_1_person_14.png"
+    },
+    {
+      "pessoa_id": 15,
+      "bbox": {
+        "x1": 1239,
+        "y1": 275,
+        "x2": 1447,
+        "y2": 535
+      },
+      "status": "Indeterminado",
+      "justificativa": "Não foi possível identificar requisitos claros de EPI/uniforme nas regras recuperadas para esta pessoa.",
+      "itens_requeridos": [],
+      "crop_path": "C:\\Users\\cpmic\\OneDrive\\Documentos\\compliance_ai_dimensa_terminal\\outputs\\crops\\vitalcare_1_person_15.png"
+    }
+  ],
+  "status_summary": {
+    "Conforme": 0,
+    "Não conforme": 0,
+    "Indeterminado": 15
+  }
+}
