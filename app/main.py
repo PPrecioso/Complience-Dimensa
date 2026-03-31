@@ -33,7 +33,7 @@ COLOR_BORDER = "bright_green"
 COLOR_WARN = "yellow"
 COLOR_ERROR = "red"
 
-# Cores das telas geradas
+# Cores das telas
 BG_COLOR = "#DDE3D7"
 CARD_COLOR = "#EEF2EB"
 CARD_BORDER = "#C9D1C4"
@@ -49,7 +49,7 @@ def render_header() -> None:
     title.append("DIMENSA | COMPLIANCE AI\n", style=f"bold {COLOR_PRIMARY}")
     title.append(
         "Sistema Inteligente de Verificação de Conformidade Visual",
-        style=COLOR_TEXT
+        style=COLOR_TEXT,
     )
 
     console.print(
@@ -200,8 +200,55 @@ def wrap_text_pixels(text: str, draw: ImageDraw.ImageDraw, font, max_width: int)
 
 
 def clean_preview_text(text: str) -> str:
-    text = text.replace("\n", " ").strip()
-    return re.sub(r"\s+", " ", text)
+    text = text.replace("\n", " ")
+    text = re.sub(r"\s+", " ", text)
+    text = text.strip()
+
+    # remove início quebrado como "zação. " ou "uisitos por "
+    text = re.sub(r"^[a-zà-ÿ]{1,8}\s+", "", text, flags=re.IGNORECASE)
+
+    # remove restos estranhos no começo antes da primeira frase útil
+    if len(text) > 40:
+        starters = [
+            "Uso",
+            "Os",
+            "As",
+            "Em",
+            "No",
+            "Na",
+            "Nas",
+            "Nos",
+            "Ambientes",
+            "Áreas",
+            "EPI",
+            "Vestimenta",
+            "Uniforme",
+            "É",
+            "Deve",
+            "Devem",
+            "É vedado",
+            "Aplica-se",
+            "Aplica se",
+            "Todos",
+            "Toda",
+            "Missão",
+            "Visão",
+            "Valores",
+            "Manual",
+            "Empresa",
+        ]
+        positions = []
+        for starter in starters:
+            pos = text.find(starter)
+            if pos > 0:
+                positions.append(pos)
+
+        if positions:
+            best = min(positions)
+            if best <= 80:
+                text = text[best:]
+
+    return text
 
 
 def load_logo(max_width: int = 320, max_height: int = 90) -> Optional[Image.Image]:
@@ -511,7 +558,7 @@ def print_people_table(result: dict) -> list[str]:
             str(person["pessoa_id"]),
             bbox_text,
             status_colored,
-            crop_name
+            crop_name,
         )
         crop_paths.append(person["crop_path"])
 
