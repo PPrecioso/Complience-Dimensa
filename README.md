@@ -1,11 +1,11 @@
 
-# Compliance AI – Dimensa Challenge
+# Compliance – Dimensa Challenge
 
-## 📌 Visão Geral
+## ✨ Visão Geral ✨
 
 Este projeto implementa um **sistema inteligente de verificação de conformidade visual e documental**, desenvolvido como solução para o desafio técnico da Dimensa.
 
-O sistema combina **visão computacional**, **recuperação semântica de documentos (RAG)** e **interface de terminal interativa** para analisar imagens e documentos corporativos, identificando possíveis violações de regras operacionais definidas em manuais.
+O sistema combina **visão computacional**, **recuperação semântica de documentos** e **interface de terminal interativa** para analisar imagens e documentos corporativos, identificando possíveis violações de regras operacionais definidas em manuais.
 
 O objetivo é simular um **sistema de auditoria automatizada**, capaz de:
 
@@ -16,7 +16,7 @@ O objetivo é simular um **sistema de auditoria automatizada**, capaz de:
 
 ---
 
-# 🧠 Arquitetura do Projeto
+# 💻 Arquitetura do Projeto 💻
 
 ```
 app/
@@ -46,7 +46,7 @@ app/
 
 ---
 
-# 🔎 Funcionalidades
+# 💻 Funcionalidades 💻
 
 ## Detecção de Pessoas
 
@@ -92,7 +92,7 @@ Mostra os recortes das pessoas detectadas.
 
 ---
 
-# 💻 Tecnologias
+# 💻 Tecnologias 💻
 
 - Python
 - YOLOv8
@@ -105,14 +105,7 @@ Mostra os recortes das pessoas detectadas.
 
 ---
 
-# ⚙️ Como Rodar
-
-## Clonar
-
-```
-git clone https://github.com/PPrecioso/Complience-Dimensa.git
-cd Complience-Dimensa
-```
+# ⚙️ Como Rodar ⚙️
 
 ## Criar ambiente
 
@@ -143,6 +136,6 @@ python -m app.main
 
 ---
 
-# 👨‍💻 Autor
+# ✨ Autora ✨
 
 Paola Precioso Figueiredo Alves
